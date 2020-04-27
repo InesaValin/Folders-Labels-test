@@ -1,6 +1,6 @@
 # Folders/Labels test
 Mail folders/labels test.
-This test can be run on Chrome on Internet Explorer.
+This test can be run on Chrome or Internet Explorer.
 
 ## Set up and build
 For this test to run you need:
